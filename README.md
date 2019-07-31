@@ -1,6 +1,19 @@
 # TransCap
-Code and dataset of our paper "Transfer Capsule Network for Aspect Level Sentiment Classification" accepted by ACL 2019.
+Code and dataset of our paper "[Transfer Capsule Network for Aspect Level Sentiment Classification](https://www.aclweb.org/anthology/P19-1052)" accepted by ACL 2019.
 
-We will release them after the conference.
+# Requirements
+* tensorflow 1.3.0
+* spacy 1.9.0
+* numpy 1.16.4
+* scikit-learn 0.21.2
 
-[Paper](https://www.aclweb.org/anthology/P19-1052)
+# Reference
+@inproceedings{chen2019transcap,
+    title = "Transfer Capsule Network for Aspect Level Sentiment Classification",
+    author = "Chen, Zhuang  and Qian, Tieyun",
+    booktitle = "Proceedings of the 57th Conference of the Association for Computational Linguistics",
+    publisher = "Association for Computational Linguistics",
+    year = "2019"
+}
+
+
