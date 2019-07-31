@@ -2,6 +2,7 @@
 Code and dataset of our paper "[Transfer Capsule Network for Aspect Level Sentiment Classification](https://www.aclweb.org/anthology/P19-1052)" accepted by ACL 2019.
 
 # Requirements
+* python 3.6
 * tensorflow 1.3.0
 * spacy 1.9.0
 * numpy 1.16.4
