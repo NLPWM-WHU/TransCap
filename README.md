@@ -10,7 +10,7 @@ Code and dataset of our paper "[Transfer Capsule Network for Aspect Level Sentim
 # Citation
 If you find our code and dataset useful, please cite our paper.  
   
-'''
+```
 @inproceedings{chen2019transcap,
   title = "Transfer Capsule Network for Aspect Level Sentiment Classification",
   author = "Chen, Zhuang  and Qian, Tieyun",
@@ -18,5 +18,5 @@ If you find our code and dataset useful, please cite our paper.
   publisher = "Association for Computational Linguistics",
   year = "2019"
 }
-'''
+```
 
